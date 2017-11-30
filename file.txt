@@ -1,1 +1,2 @@
 file1 text
+step 2
